@@ -8,6 +8,6 @@ Fatemeh has played a pivotal role in many projects. Her programming specialties 
 - 🌱 I’m currently learning LLM(Large Language Models).
 - 👯 I’m looking to collaborate on AI engineering and Backend development
 - 💬 Ask me about AI, Python, data mining.
-- 📫 How to reach me: fatimajamali1393@gmail.com
+- 📫 How to reach me: fatimajamali1393@gmail.com.
 
 
