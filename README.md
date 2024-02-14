@@ -4,7 +4,7 @@
 
 Fatemeh has played a pivotal role in many projects. Her programming specialties include Python, C++/C.
 
-- 🔭 I’m currently working on Backend development.
+- 🔭 I’m currently working on AI engineering.
 - 🌱 I’m currently learning LLM(Large Language Models).
 - 👯 I’m looking to collaborate on AI engineering and Backend development
 - 💬 Ask me about AI, Python, data mining.
